@@ -17,3 +17,6 @@ Usamos linguagem de programação Python, integração com interface gráfica TK
 para visualização de telas e bibliotecas como Numpy para conhecimentos básico de
 processamento de coleta e detecção, Pandas para conhecimentos básico de processamento
 de histórico dos alunos, Pillow suportando diversos formatos de imagem diferentes.
+
+
+Obs: Instale as mesmas versões das bibliotecas e teste meu código!
